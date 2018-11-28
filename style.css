@@ -1,0 +1,13 @@
+p{
+    color: white;
+    background-color: orange;
+    padding: 10px;
+    border-color: black;
+    border: 2px;
+    cursor: pointer;
+    text-align: center;
+    text-transform: uppercase;
+    border-radius: 5px;
+    font-family: sans-serif;
+    box-shadow: 1px 1px 2px #000000;
+}
